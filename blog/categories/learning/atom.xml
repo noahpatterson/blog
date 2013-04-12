@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: learning | Albinosquirrel Codes]]></title>
+  <link href="http://blog.albino-squirrel.com/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://blog.albino-squirrel.com/"/>
+  <updated>2013-04-12T08:12:32-04:00</updated>
+  <id>http://blog.albino-squirrel.com/</id>
+  <author>
+    <name><![CDATA[Noah Patterson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thinkful Update]]></title>
+    <link href="http://blog.albino-squirrel.com/blog/2013/04/12/thinkful-update/"/>
+    <updated>2013-04-12T01:00:00-04:00</updated>
+    <id>http://blog.albino-squirrel.com/blog/2013/04/12/thinkful-update</id>
+    <content type="html"><![CDATA[<p>These next few weeks are about design. This is an area that I don't have a lot of experience in but I hope will teach me a lot.</p>
+
+<p>I can say that reading about design and to a larger extent taking a course about web design/development has opened my mind to examples in everyday life.</p>
+
+<p>One example that continues to irk me is the lack of decently designed mobile restaurant pages in Washington DC. Almost every restaurant website that I have been to recently has redirected me to a mobile site, given me unclear instructions on how to view the full site, not provided a responsive layout, and is generally crap. The sites are ugly, not functional, and usually only three buttons: menu, directions, contact us. Ok so you included menu, that's probably why I am there anyway <click> oh it's just a .pdf that takes forever to download and is out of date? Great. Sigh seriously they are all crap. I wonder if any other cities have this problem.</p>
+
+<p>Now it's back to trying to find dinner on my phone <headdesk>...</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Full of Think]]></title>
+    <link href="http://blog.albino-squirrel.com/blog/2013/04/12/full-of-think/"/>
+    <updated>2013-04-12T00:19:00-04:00</updated>
+    <id>http://blog.albino-squirrel.com/blog/2013/04/12/full-of-think</id>
+    <content type="html"><![CDATA[<p>I have recently started my web development training at Thinkful and everything is going well! Thinkful is a startup focused on giving more structure to highly motivated learners. Thinkful uses the depth of self-learning HTML, CSS, and javascript resources that MOOCS are providing.</p>
+
+<p>Likely you are having the same reaction as I did. I can already access all of that content myself and a lot of it for free. With quality MOOCS like Treehouse and Code School springing up faster that April flowers, what makes Thinkful different? Or why should I pay for this?</p>
+
+<p>Again Thinkful is focused on 'highly motivated learners'. What they give highly motivated learners is some structure to their learning. Personally I have found that most MOOCS give you a lot of information, exercises, and/or lessons to consume but they don't do a good job leading you down the right path. In contrast Thinkful provides this structure. They give you projects to complete in each Unit. This allows you to really hone the skills you are learning. They also provide Mentors that have industry expertise to help guide you when you get stuck as well as give feedback on your projects. I agree with Thinkful. For me, the highly motivated learner, this is what I need.</p>
+
+<p>I will keep this blog updated as the course goes along. We will see where we are at the end!</p>
+]]></content>
+  </entry>
+  
+</feed>
