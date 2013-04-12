@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: code | Albinosquirrel Codes]]></title>
-  <link href="http://blog.albino-squirrel.com/blog/categories/code/atom.xml" rel="self"/>
-  <link href="http://blog.albino-squirrel.com/"/>
-  <updated>2013-04-12T08:12:32-04:00</updated>
-  <id>http://blog.albino-squirrel.com/</id>
+  <link href="http://noahpatterson.github.io/blog/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://noahpatterson.github.io/blog/"/>
+  <updated>2013-04-12T08:50:29-04:00</updated>
+  <id>http://noahpatterson.github.io/blog/</id>
   <author>
     <name><![CDATA[Noah Patterson]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trouble Floating]]></title>
-    <link href="http://blog.albino-squirrel.com/blog/2013/04/12/trouble-floating/"/>
+    <link href="http://noahpatterson.github.io/blog/blog/2013/04/12/trouble-floating/"/>
     <updated>2013-04-12T00:34:00-04:00</updated>
-    <id>http://blog.albino-squirrel.com/blog/2013/04/12/trouble-floating</id>
+    <id>http://noahpatterson.github.io/blog/blog/2013/04/12/trouble-floating</id>
     <content type="html"><![CDATA[<p><img alt="image" src="images/trouble_floating.jpg" /></p>
 
 

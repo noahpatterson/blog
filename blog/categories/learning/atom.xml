@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: learning | Albinosquirrel Codes]]></title>
-  <link href="http://blog.albino-squirrel.com/blog/categories/learning/atom.xml" rel="self"/>
-  <link href="http://blog.albino-squirrel.com/"/>
-  <updated>2013-04-12T08:12:32-04:00</updated>
-  <id>http://blog.albino-squirrel.com/</id>
+  <link href="http://noahpatterson.github.io/blog/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://noahpatterson.github.io/blog/"/>
+  <updated>2013-04-12T08:50:29-04:00</updated>
+  <id>http://noahpatterson.github.io/blog/</id>
   <author>
     <name><![CDATA[Noah Patterson]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Thinkful Update]]></title>
-    <link href="http://blog.albino-squirrel.com/blog/2013/04/12/thinkful-update/"/>
+    <link href="http://noahpatterson.github.io/blog/blog/2013/04/12/thinkful-update/"/>
     <updated>2013-04-12T01:00:00-04:00</updated>
-    <id>http://blog.albino-squirrel.com/blog/2013/04/12/thinkful-update</id>
+    <id>http://noahpatterson.github.io/blog/blog/2013/04/12/thinkful-update</id>
     <content type="html"><![CDATA[<p>These next few weeks are about design. This is an area that I don't have a lot of experience in but I hope will teach me a lot.</p>
 
 <p>I can say that reading about design and to a larger extent taking a course about web design/development has opened my mind to examples in everyday life.</p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Full of Think]]></title>
-    <link href="http://blog.albino-squirrel.com/blog/2013/04/12/full-of-think/"/>
+    <link href="http://noahpatterson.github.io/blog/blog/2013/04/12/full-of-think/"/>
     <updated>2013-04-12T00:19:00-04:00</updated>
-    <id>http://blog.albino-squirrel.com/blog/2013/04/12/full-of-think</id>
+    <id>http://noahpatterson.github.io/blog/blog/2013/04/12/full-of-think</id>
     <content type="html"><![CDATA[<p>I have recently started my web development training at Thinkful and everything is going well! Thinkful is a startup focused on giving more structure to highly motivated learners. Thinkful uses the depth of self-learning HTML, CSS, and javascript resources that MOOCS are providing.</p>
 
 <p>Likely you are having the same reaction as I did. I can already access all of that content myself and a lot of it for free. With quality MOOCS like Treehouse and Code School springing up faster that April flowers, what makes Thinkful different? Or why should I pay for this?</p>
