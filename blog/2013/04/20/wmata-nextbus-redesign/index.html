@@ -1,0 +1,348 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>WMATA Nextbus Redesign - Albinosquirrel Codes</title>
+  <meta name="author" content="Noah Patterson">
+
+  
+  <meta name="description" content="As part of the Thinkful class I am taking we were tasked to use our newly learned information about design to redesign a website. I choose one I &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://noahpatterson.github.io/blog/blog/2013/04/20/wmata-nextbus-redesign">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Albinosquirrel Codes" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Albinosquirrel Codes</a></h1>
+  
+    <h2>Squirrely coding</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:noahpatterson.github.io/blog" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/about">About Me</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">WMATA Nextbus Redesign</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-20T19:03:00-04:00" pubdate data-updated="true">Apr 20<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>As part of the <span><a href=”http://www.thinkful.com”>Thinkful</a></span> class I am taking we were tasked to use our newly learned information about design to redesign a website. I choose one I thought didn&#8217;t quite reach it&#8217;s potential. A website that I use. A website that my friends rely on. A website that the people in Washington, DC use everyday.
+<span><a href=”http://www.wmata.com/rider_tools/nextbus/arrivals.cfm”>WMATA Nextbus Finder.</a></span></p>
+
+<p>Let me guide you through what is wrong with the website, my process to tackle the problem, and finally some prototypes of how it could look.</p>
+
+<p>The WMATA Nextbus Finder is used by people in Washington, DC to find when a public transit bus is arriving at their chosen stop. The site allows you to do a number of additional things:</p>
+
+<p><img src="/images/screenshotcomment.png" alt='wmata nextbus screenshot with comments'></p>
+
+<ol>
+<li>Find additional information about transportation in Washington, DC</li>
+    <ol>
+    <li>See live maps of the locations of buses by route</li>
+    <li>Look up route time tables</li>
+    </ol>
+<li>Select the specific route the user is looking for to see the arrival times</li>
+<li>See the estimated arrival times of the buses in the route the user selected</li>
+<li>See alternative routes that come to the stop the user selected</li>
+</ol>
+
+
+<p>Just having these options for public transit is extremely convenient, I use the Finder all the time. However I find the Finder extremely hard to use. There seems to be a simpler way to navigate and gain the information. Why isn&#8217;t the site designed better?</p>
+
+<p>Perhaps WMATA doesn&#8217;t have the bandwidth to design for this page. Perhaps they don&#8217;t care. Perhaps the designers just don&#8217;t understand how people use the site. All of these are examples of how a solid design process of need finding, user testing, and proper workflow could help design a better site.</p>
+
+<p> Whatever the reason I believe my design prototypes can shed some light on how the site and use of the information could be improved.</p>
+
+<h2>What is wrong with this site?</h2>
+
+
+<ol>
+    <li>The design of the main website is not the same as the design of the Nextbus Finder</li>
+<li>Useful map information is loaded on another page</li>
+<li>Selection of route information is slow and awkward</li>
+<li>Selecting another route clears the current route</li>
+<li>There is no information on whether the alternative routes are useful to get the user to their destination</li>
+</ol>
+
+
+
+
+<h2>My Process</h2>
+
+
+<p>First I analyzed the current site and asked friends for feedback on what was missing. Ease of use and not knowing which bus to take were the biggest complaints.</p>
+
+<p>Next I sketched of some ideas of what the site could look like.</p>
+
+<p><img src="/images/wmatawire1.png" alt='wmata nextbus sketch'></p>
+
+<p>I took some of the better ideas and made wireframes to get a more structured and neat view of the idea.</p>
+
+<p><img src="/images/myImage (1).png" alt='wmata nextbus redesign wireframe'></p>
+
+<p>Finally I prototyped two of the best ideas in HTML and CSS. The sites are by no means finished but I think they give potential users a good idea of how they would gain public transit information.</p>
+
+<h2>Explanation of the prototypes</h2>
+
+
+<h3>Redesign1</h3>
+
+
+<p>This different take on the WMATA Nextbus Finder focues on a large map and clean UI.</p>
+
+<p><img src="/images/wmataredesigncomments2.png" alt='wmata nextbus redesign 1 bus arrival zones'></p>
+
+<ol>
+    <li>Upon login a favorites button will keep track of stops that the user use often</li>
+<li>The live map will track the route the user has selected and the buses that are on the route (this uses WMATA&#8217;s current style of live map, some improvements could be found here too)</li>
+<li>The map can expand to the whole page</li>
+<li>The user can search for directions, not just a specific route and have WMATA&#8217;s current trip planner find the available routes to take</li>
+<li>The user can still search for specific routes</li>
+<li>Arrivals are in a clean UI</li>
+</ol>
+
+
+
+
+<h3>Redesign2</h3>
+
+
+<p>This radical prototype focuses on a new view that facilitates quick glance updates of bus arrival times</p>
+
+<p><img src="/images/wmataredesigncomments1.png" alt='wmata nextbus redesign 2 bus arrival zones'></p>
+
+<ol>
+    <li>A clean, modern Navigation</li>
+<li>A favorites button will keep track of stops that you use often once you login</li>
+<li>A prominent visual display of arriving buses</li>
+<li>Buses on the route, showing what street, and how long until its arrival. These buses travel down the screen from green to red as the bus gets closer</li>
+<li>Route and/or stop selector using easy searching</li>
+<li>Alternative route information that will populate the upcoming buses area with the selected route</li>
+<li>Bus arrival zones use common knowledge of green=OK, yellow=caution and red=Bad. The sections will represent the time the user has until a bus gets to their selected stop. Green buses are further away and they have time. Yellow bus are close and they should leave. Red buses are at their stop and they will likely miss the bus</li>
+</ol>
+
+
+
+
+<h2>Conclusion</h2>
+
+
+<p>Overall the Thinkful project was really inspiring. The project allowed me to gather my ideas for a better public transit system into a living and breathing idea.  I learned a lot about design and designing actual concrete ideas for the web.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Noah Patterson</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-20T19:03:00-04:00" pubdate data-updated="true">Apr 20<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/design/'>design</a>, <a class='category' href='/blog/categories/thinful/'>thinful,</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://noahpatterson.github.io/blog/blog/2013/04/20/wmata-nextbus-redesign/" data-via="albinosquirrel" data-counturl="http://noahpatterson.github.io/blog/blog/2013/04/20/wmata-nextbus-redesign/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/04/12/wmata-dc-next-bus-app-sketches/" title="Previous Post: WMATA DC Next Bus App Sketches">&laquo; WMATA DC Next Bus App Sketches</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/20/wmata-nextbus-redesign/">WMATA Nextbus Redesign</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/12/wmata-dc-next-bus-app-sketches/">WMATA DC Next Bus App Sketches</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/12/thinkful-update/">Thinkful Update</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/12/trouble-floating/">Trouble Floating</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/12/full-of-think/">Full of Think</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/noahpatterson">@noahpatterson</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'noahpatterson',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Noah Patterson -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
