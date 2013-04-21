@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | Albinosquirrel Codes]]></title>
   <link href="http://noahpatterson.github.io/blog/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://noahpatterson.github.io/blog/"/>
-  <updated>2013-04-20T20:27:57-04:00</updated>
+  <updated>2013-04-20T20:33:30-04:00</updated>
   <id>http://noahpatterson.github.io/blog/</id>
   <author>
     <name><![CDATA[Noah Patterson]]></name>
@@ -18,8 +18,7 @@
     <link href="http://noahpatterson.github.io/blog/blog/2013/04/20/wmata-nextbus-redesign/"/>
     <updated>2013-04-20T19:03:00-04:00</updated>
     <id>http://noahpatterson.github.io/blog/blog/2013/04/20/wmata-nextbus-redesign</id>
-    <content type="html"><![CDATA[<p>As part of the <span><a href=”http://www.thinkful.com”>Thinkful</a></span> class I am taking we were tasked to use our newly learned information about design to redesign a website. I choose one I thought didn't quite reach it's potential. A website that I use. A website that my friends rely on. A website that the people in Washington, DC use everyday.
-<span><a href=”http://www.wmata.com/rider_tools/nextbus/arrivals.cfm”>WMATA Nextbus Finder.</a></span></p>
+    <content type="html"><![CDATA[<p>As part of the <a href="http://www.thinkful.com">Thinkful</a> class I am taking we were tasked to use our newly learned information about design to redesign a website. I choose one I thought didn't quite reach it's potential. A website that I use. A website that my friends rely on. A website that the people in Washington, DC use everyday. <a href="http://www.wmata.com/rider_tools/nextbus/arrivals.cfm">WMATA Nextbus Finder</a></p>
 
 <p>Let me guide you through what is wrong with the website, my process to tackle the problem, and finally some prototypes of how it could look.</p>
 
